@@ -1,0 +1,9 @@
+# Site settings (baseurl must end with a trailing slash!)
+baseurl = "http://blog.osamu.habuka.jp/"
+languageCode = "ja-jp"
+title = "hablog"
+
+[Params]
+  Author = "Osamu Habuka"
+  logo = "/images/puta-su.png"
+  cover = "/images/cover.jpg"

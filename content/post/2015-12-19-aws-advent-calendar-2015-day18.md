@@ -1,6 +1,7 @@
 +++
 title = "SkyDNSのバックエンドにDynamoDBを使ってみる"
 date = "2015-12-19"
+aliases = ["/blog/2015/12/19/aws-advent-calendar-2015-day18/index.html"]
 tags = ["AWS","AdventAalendar"]
 +++
 
